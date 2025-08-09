@@ -1,0 +1,28 @@
+{
+  "name": "payment-gateway-dapp",
+  "version": "1.0.0",
+  "description": "Decentralized Payment Gateway DApp",
+  "scripts": {
+    "node": "npx hardhat node",
+    "compile": "npx hardhat compile",
+    "deploy:localhost": "npx hardhat run scripts/deploy-mock-tokens.js --network localhost && npx hardhat run scripts/deploy-payment-gateway.js --network localhost",
+    "clear": "rm -rf node_modules package-lock.json cache deployment-localhost.json deployed-tokens-localhost.json artifacts"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0",
+    "dotenv": "^16.4.5"
+  },
+  "keywords": [
+    "blockchain",
+    "insurance",
+    "defi",
+    "hardhat",
+    "solidity"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
