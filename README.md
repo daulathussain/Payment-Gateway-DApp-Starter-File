@@ -1,12 +1,12 @@
 # Web3 Crypto Payment Gateway DApp
 
-Build & Deploy a Web3 Crypto Payment Gateway DApp | Solidity + Next.js | Blockchain Payment Gateway Project
+Build & Deploy a Web3 Crypto Payment Gateway DApp | Solidity + Next.js | Stripe & PayPal Clone
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/08/Build-Deploy-a-Web3-Crypto-Payment-Gateway-DApp-Solidity-Next.js-Blockchain-Payment-Gateway-Project.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/08/Build-Deploy-a-Web3-Crypto-Payment-Gateway-DApp-Solidity-Next.js-Stripe-PayPal-Clone.jpg)
 
 ## Instruction
 
-Kindly follow the Instructions below to run the project on your system and install the necessary requirements
+Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 - [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-web3-crypto-payment-gateway-dapp-or-solidity-+-next.js-or-blockchain-payment-gateway-project)
 
@@ -14,20 +14,19 @@ Kindly follow the Instructions below to run the project on your system and insta
 
 - [Final Code Setup video]()
 
-In this step-by-step tutorial, we’ll build and deploy a Web3 Crypto Payment Gateway DApp using Solidity and Next.js on any blockchain network. 🚀
-Learn how to create a secure, decentralized payment solution where users can send and receive crypto payments directly without intermediaries. We’ll cover smart contract development, wallet integration, payment tracking, and full frontend-backend integration for seamless transactions.
+Learn how to build and deploy a Web3 Crypto Payment Gateway DApp from scratch — a blockchain-powered payment solution inspired by Stripe & PayPal. 🚀
+In this tutorial, we’ll integrate Solidity smart contracts with Next.js to create a secure, decentralized payment platform that supports crypto transactions. Perfect for Web3 developers looking to create their own blockchain-based payment systems.
 
 What You’ll Learn:
+✅ Smart contract development with Solidity
+✅ Next.js frontend for payment integration
+✅ Wallet connection & transaction handling
+✅ Deployment on testnet/mainnet
+✅ Real-world Stripe & PayPal-like workflow in Web3
 
-- Writing and deploying a Solidity smart contract for crypto payments
-- Integrating wallets (like MetaMask) for sending & receiving crypto
-- Building a responsive Next.js frontend for the payment gateway
-- Handling transactions and confirmations on the blockchain
-- Deploying your DApp to testnet/mainnet
+Whether you’re a beginner or an experienced blockchain developer, this project will boost your Web3 skills and help you launch your own crypto payment gateway!
 
-Whether you’re building a payment solution for your business or launching your own blockchain startup, this project will give you the skills to make it happen! 💡
-
-#Web3 #CryptoPayment #Blockchain #Solidity #Nextjs #PaymentGateway #DApp #Crypto #SmartContract #Ethereum #BinanceSmartChain #Polygon
+#web3 #solidity #nextjs #cryptopayment #dapp #stripeclone #paypalclone #blockchain #smartcontracts #crypto
 
 #### Deploying Dapp
 
