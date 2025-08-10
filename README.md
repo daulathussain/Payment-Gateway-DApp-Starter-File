@@ -12,7 +12,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/sx0JW0gfdxs?si=ZdTF5bEwpmFmGsAV)
 
 Learn how to build and deploy a Web3 Crypto Payment Gateway DApp from scratch — a blockchain-powered payment solution inspired by Stripe & PayPal. 🚀
 In this tutorial, we’ll integrate Solidity smart contracts with Next.js to create a secure, decentralized payment platform that supports crypto transactions. Perfect for Web3 developers looking to create their own blockchain-based payment systems.
@@ -63,8 +63,8 @@ Whether you’re a beginner or an experienced blockchain developer, this project
 #### FINAL SOURCE CODE
 
 ```
-  SETUP VIDEO: https://youtu.be/6hkzT62Oo_8?si=JrxD0q5rfhWp2Gag
-  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ico-presale-(erc20-token)-dapp-or-solidity-+-next.js-or-binance-polygon-ethereum
+  SETUP VIDEO: https://youtu.be/sx0JW0gfdxs?si=ZdTF5bEwpmFmGsAV
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-web3-crypto-payment-gateway-dapp-or-solidity-+-next.js-or-blockchain-payment-gateway-project
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
